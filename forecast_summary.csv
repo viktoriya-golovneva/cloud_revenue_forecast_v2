@@ -1,4 +1,4 @@
-pmonth,scenario,consumption_usd_k,cash_usd_k
+pmonth,scenario,Consumption Revenue (K USD),Cash Collections (K USD)
 2026-06-01,base,1630.9215000163906,2985.7
 2026-07-01,base,1898.0403165554396,3773.0
 2026-08-01,base,1937.2261880973176,1253.6
