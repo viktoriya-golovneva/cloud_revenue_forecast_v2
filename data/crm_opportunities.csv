@@ -1,0 +1,40 @@
+opportunity_id,crm_account_id,opportunity_name,opportunity_type,stage,forecast_category,probability,expected_close_date,expected_start_month,contract_term_months,total_contract_value_usd,expected_committed_spend_usd,expected_monthly_consumption_usd,payment_structure,owner_forecast_notes
+OPP-1001,ACC-0002,HelioBank expansion gpu_reserved_capacity,New Logo,Solution Fit,Upside,0.55,2026-08-24,2026-09-01,24,229146,126273,11975,commit_drawdown,Legal review in progress.
+OPP-1002,ACC-0008,Orbit Media expansion compute_savings_plan,Renewal,Solution Fit,Upside,0.4,2026-08-14,2026-09-01,24,646769,610923,29852,quarterly_prepay,Legal review in progress.
+OPP-1003,ACC-0009,Quantum Cart expansion compute_savings_plan,New Logo,Proposal,Best Case,0.25,2026-08-22,2026-10-01,24,76206,62452,2799,monthly_arrears,Sales expects fast ramp.
+OPP-1004,ACC-0012,BrightApps expansion cloud_commit_plan,Expansion,Negotiation,Commit,0.7,2026-08-16,2026-09-01,24,543070,422515,15928,commit_drawdown,Sales expects fast ramp.
+OPP-1005,ACC-0014,Atlas Retail expansion gpu_reserved_capacity,Expansion,Solution Fit,Pipeline,0.25,2026-07-15,2026-07-01,36,411830,246629,24492,annual_prepay,Sales expects fast ramp.
+OPP-1006,ACC-0015,NovaLearn expansion network_commit,Expansion,Discovery,Pipeline,0.25,2026-10-25,2026-11-01,36,814034,762592,39798,quarterly_prepay,Legal review in progress.
+OPP-1007,ACC-0016,PeakMetrics expansion cloud_commit_plan,New Logo,Proposal,Commit,0.55,2026-07-09,2026-09-01,36,630226,447413,26980,quarterly_prepay,Procurement timing uncertain.
+OPP-1008,ACC-0019,OmniPay expansion gpu_reserved_capacity,New Logo,Proposal,Best Case,0.7,2026-09-22,2026-10-01,12,723746,424568,41603,monthly_arrears,Ramp depends on capacity allocation.
+OPP-1009,ACC-0022,HelioBank Ltd. expansion gpu_reserved_capacity,Expansion,Commit,Best Case,0.4,2026-08-15,2026-08-01,24,428490,328326,18694,monthly_arrears,Sales expects fast ramp.
+OPP-1010,ACC-0024,Northstar Gaming Ltd. expansion object_storage_commit,New Logo,Proposal,Pipeline,0.25,2026-09-14,2026-09-01,36,1097100,790682,33519,monthly_arrears,Ramp depends on capacity allocation.
+OPP-1011,ACC-0028,Orbit Media Ltd. expansion object_storage_commit,Expansion,Commit,Upside,0.55,2026-08-20,2026-08-01,36,230608,194226,9736,commit_drawdown,Legal review in progress.
+OPP-1012,ACC-0031,MedNova Ltd. expansion compute_savings_plan,Renewal,Solution Fit,Best Case,0.55,2026-08-14,2026-10-01,36,648840,382713,20371,monthly_arrears,Legal review in progress.
+OPP-1013,ACC-0034,Atlas Retail Ltd. expansion gpu_reserved_capacity,Expansion,Solution Fit,Commit,0.25,2026-10-04,2026-10-01,24,644686,526706,53689,monthly_arrears,Legal review in progress.
+OPP-1014,ACC-0035,NovaLearn Ltd. expansion cloud_commit_plan,New Logo,Discovery,Upside,0.7,2026-09-23,2026-10-01,12,224245,155680,14264,annual_prepay,Ramp depends on capacity allocation.
+OPP-1015,ACC-0036,PeakMetrics Ltd. expansion gpu_reserved_capacity,New Logo,Negotiation,Commit,0.55,2026-10-26,2026-11-01,24,597309,567133,48755,annual_prepay,Ramp depends on capacity allocation.
+OPP-1016,ACC-0037,Aurora Systems Ltd. expansion network_commit,Expansion,Proposal,Upside,0.4,2026-10-15,2026-12-01,24,706982,411201,29912,monthly_arrears,Procurement timing uncertain.
+OPP-1017,ACC-0038,Tesseract AI Ltd. expansion object_storage_commit,Renewal,Negotiation,Commit,0.55,2026-06-16,2026-07-01,36,396181,251697,21703,commit_drawdown,Sales expects fast ramp.
+OPP-1018,ACC-0040,DeltaStream Inc. expansion object_storage_commit,Expansion,Commit,Upside,0.85,2026-09-11,2026-10-01,36,145015,124821,5155,annual_prepay,Sales expects fast ramp.
+OPP-1019,ACC-0041,Acme Analytics Inc. expansion object_storage_commit,New Logo,Negotiation,Upside,0.55,2026-10-11,2026-11-01,36,227872,200571,7066,commit_drawdown,Procurement timing uncertain.
+OPP-1020,ACC-0042,HelioBank Inc. expansion compute_savings_plan,New Logo,Discovery,Pipeline,0.25,2026-09-16,2026-10-01,12,443679,355061,26969,monthly_arrears,Ramp depends on capacity allocation.
+OPP-1021,ACC-0047,Finwise Inc. expansion cloud_commit_plan,Renewal,Solution Fit,Best Case,0.7,2026-07-24,2026-08-01,12,705600,467175,56808,quarterly_prepay,Legal review in progress.
+OPP-1022,ACC-0051,MedNova Inc. expansion cloud_commit_plan,Renewal,Solution Fit,Best Case,0.4,2026-08-17,2026-09-01,36,801504,613542,33083,commit_drawdown,Procurement timing uncertain.
+OPP-1023,ACC-0052,BrightApps Group expansion compute_savings_plan,New Logo,Proposal,Upside,0.7,2026-09-07,2026-09-01,12,137996,114005,4636,monthly_arrears,Ramp depends on capacity allocation.
+OPP-1024,ACC-0056,PeakMetrics Inc. expansion cloud_commit_plan,New Logo,Commit,Commit,0.55,2026-09-10,2026-10-01,24,802873,748998,36265,quarterly_prepay,Sales expects fast ramp.
+OPP-1025,ACC-0057,Aurora Systems Inc. expansion gpu_reserved_capacity,Expansion,Solution Fit,Upside,0.85,2026-10-14,2026-11-01,12,871494,615221,29783,annual_prepay,Ramp depends on capacity allocation.
+OPP-1026,ACC-0062,HelioBank Cloud expansion cloud_commit_plan,Renewal,Commit,Commit,0.4,2026-08-09,2026-09-01,24,423887,238851,26379,annual_prepay,Legal review in progress.
+OPP-1027,ACC-0065,BlueRiver AI Cloud Group expansion cloud_commit_plan,Expansion,Commit,Upside,0.85,2026-09-10,2026-09-01,24,893816,631580,47182,quarterly_prepay,Procurement timing uncertain.
+OPP-1028,ACC-0067,Finwise Cloud expansion object_storage_commit,Renewal,Discovery,Commit,0.85,2026-09-21,2026-10-01,12,294140,263041,12605,annual_prepay,Legal review in progress.
+OPP-1029,ACC-0069,Quantum Cart Cloud expansion gpu_reserved_capacity,Expansion,Proposal,Commit,0.7,2026-08-15,2026-10-01,12,2224516,2030269,80592,quarterly_prepay,Legal review in progress.
+OPP-1030,ACC-0072,BrightApps Cloud expansion object_storage_commit,Renewal,Discovery,Upside,0.85,2026-08-17,2026-08-01,12,514264,415938,23065,monthly_arrears,Procurement timing uncertain.
+OPP-1031,ACC-0091,Lambda Robotics expansion compute_savings_plan,New Logo,Discovery,Commit,0.4,2026-06-26,2026-07-01,24,583012,545976,24464,monthly_arrears,Legal review in progress.
+OPP-1032,ACC-0092,Magellan BioAI expansion object_storage_commit,Expansion,Commit,Upside,0.85,2026-09-25,2026-10-01,12,4375700,2944335,354572,monthly_arrears,Sales expects fast ramp.
+OPP-1033,ACC-0093,Pinnacle Training expansion cloud_commit_plan,Renewal,Discovery,Upside,0.25,2026-07-08,2026-09-01,24,4099420,2477731,265853,commit_drawdown,Ramp depends on capacity allocation.
+OPP-1034,ACC-0094,Zenith Marketplace expansion cloud_commit_plan,New Logo,Discovery,Commit,0.25,2026-07-26,2026-09-01,24,1728135,1610169,77281,annual_prepay,Ramp depends on capacity allocation.
+OPP-1035,ACC-0018,Vertex Labs strategic gpu_reserved_capacity,Expansion,Commit,Commit,0.9,2026-06-24,2026-07-01,24,9840000,8200000,410000,annual_prepay,Part of same board-approved AI platform package.
+OPP-1036,ACC-0018,Vertex Labs strategic compute_savings_plan,Expansion,Commit,Commit,0.9,2026-06-24,2026-07-01,24,5520000,4600000,230000,annual_prepay,May be bundled into master commit.
+OPP-1037,ACC-0018,Vertex Labs strategic cloud_commit_plan,Expansion,Commit,Commit,0.9,2026-06-24,2026-07-01,24,16560000,13800000,690000,annual_prepay,Umbrella saving plan; avoid double counting child opps.
+OPP-1038,ACC-0091,Lambda Robotics new logo GPU cloud launch,New Logo,Negotiation,Best Case,0.7,2026-07-18,2026-08-01,36,5400000,3600000,185000,quarterly_prepay,No billing customer exists yet; sales says launch can materially change GPU trend.
+OPP-1039,ACC-0058,Aurora Systems signed annual prepay not in billing,Expansion,Closed Won,Commit,1.0,2026-05-28,2026-06-01,12,1800000,1800000,150000,annual_prepay,Contract signed but first invoice is not present in billing extract.

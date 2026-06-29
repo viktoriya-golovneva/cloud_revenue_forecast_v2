@@ -1,0 +1,91 @@
+customer_id,customer_name,segment,industry,region,account_owner,signup_date,billing_country,payment_terms_days,customer_status
+CUST-0001,Acme Analytics,Strategic,E-commerce,Middle East,M. Jensen,2022-11-01,PL,45,active
+CUST-0002,HelioBank,SMB,AI/ML,APAC,M. Jensen,2025-04-01,DE,60,active
+CUST-0003,Vertex Labs,Commercial,Healthcare,Europe,A. Novak,2022-07-01,FR,45,active
+CUST-0004,Northstar Gaming,SMB,E-commerce,Europe,T. Meyer,2022-05-01,NL,30,paused
+CUST-0005,BlueRiver AI,Enterprise,AI/ML,Europe,A. Novak,2023-10-01,GB,60,active
+CUST-0006,CloudNest,Strategic,Gaming,North America,N. Kowalski,2023-07-01,DE,14,active
+CUST-0007,Finwise,Strategic,Media,APAC,M. Jensen,2022-04-01,DE,45,active
+CUST-0008,Orbit Media,Enterprise,Media,Europe,A. Novak,2023-06-01,GB,30,active
+CUST-0009,Quantum Cart,Enterprise,AI/ML,Middle East,M. Jensen,2022-10-01,AE,45,active
+CUST-0010,SentinelSec,Commercial,E-commerce,Middle East,T. Meyer,2022-07-01,GB,14,active
+CUST-0011,MedNova,Commercial,Cybersecurity,Europe,A. Novak,2022-09-01,DE,14,churned
+CUST-0012,BrightApps,SMB,Healthcare,APAC,N. Kowalski,2025-06-01,GB,30,churned
+CUST-0013,SignalForge,Commercial,Healthcare,APAC,L. Garcia,2025-04-01,PL,14,active
+CUST-0014,Atlas Retail,SMB,AI/ML,Europe,M. Jensen,2023-07-01,DE,30,churned
+CUST-0015,NovaLearn,SMB,E-commerce,Middle East,A. Novak,2024-09-01,NL,30,active
+CUST-0016,PeakMetrics,Commercial,Cybersecurity,Middle East,L. Garcia,2024-04-01,US,45,churned
+CUST-0017,Aurora Systems,Commercial,E-commerce,North America,S. Patel,2025-01-01,US,30,active
+CUST-0018,Tesseract AI,Strategic,Cybersecurity,APAC,S. Patel,2023-04-01,GB,30,active
+CUST-0019,OmniPay,SMB,SaaS,Europe,N. Kowalski,2023-09-01,NL,60,active
+CUST-0020,DeltaStream Ltd.,SMB,SaaS,Middle East,N. Kowalski,2025-03-01,PL,45,active
+CUST-0021,Acme Analytics Ltd.,SMB,SaaS,Europe,S. Patel,2024-06-01,FR,45,active
+CUST-0022,HelioBank Ltd.,Strategic,Cybersecurity,Europe,S. Patel,2022-05-01,FR,30,active
+CUST-0023,Vertex Labs Ltd.,Commercial,Gaming,Europe,A. Novak,2025-04-01,NL,45,active
+CUST-0024,Northstar Gaming Ltd.,Strategic,Fintech,Europe,M. Jensen,2022-06-01,DE,60,active
+CUST-0025,BlueRiver AI Ltd.,Commercial,Healthcare,Middle East,T. Meyer,2022-11-01,DE,60,active
+CUST-0026,CloudNest Ltd.,Commercial,E-commerce,APAC,T. Meyer,2025-07-01,GB,60,active
+CUST-0027,Finwise Ltd.,Commercial,Cybersecurity,Europe,T. Meyer,2025-04-01,FR,30,active
+CUST-0028,Orbit Media Ltd.,SMB,Media,Europe,L. Garcia,2025-07-01,GB,30,paused
+CUST-0029,Quantum Cart Ltd.,Commercial,AI/ML,North America,S. Patel,2022-03-01,SG,30,active
+CUST-0030,SentinelSec Ltd.,SMB,E-commerce,Europe,N. Kowalski,2024-05-01,AE,45,active
+CUST-0031,MedNova Ltd.,SMB,Media,Middle East,T. Meyer,2024-07-01,AE,30,active
+CUST-0032,BrightApps Ltd.,SMB,Healthcare,APAC,T. Meyer,2023-12-01,GB,60,active
+CUST-0033,SignalForge Ltd.,Strategic,E-commerce,North America,A. Novak,2024-09-01,NL,14,active
+CUST-0034,Atlas Retail Ltd.,SMB,Fintech,North America,T. Meyer,2025-03-01,FR,30,active
+CUST-0035,NovaLearn Ltd.,Enterprise,SaaS,Middle East,L. Garcia,2023-11-01,GB,14,active
+CUST-0036,PeakMetrics Ltd.,SMB,Healthcare,APAC,T. Meyer,2022-10-01,SG,14,active
+CUST-0037,Aurora Systems Ltd.,SMB,Media,Europe,L. Garcia,2023-05-01,GB,60,churned
+CUST-0038,Tesseract AI Ltd.,Enterprise,SaaS,Middle East,M. Jensen,2022-06-01,FR,30,active
+CUST-0039,OmniPay Ltd.,SMB,Media,Middle East,T. Meyer,2022-01-01,US,30,active
+CUST-0040,DeltaStream Inc.,SMB,Gaming,APAC,T. Meyer,2022-03-01,GB,45,active
+CUST-0041,Acme Analytics Inc.,SMB,AI/ML,North America,N. Kowalski,2025-07-01,US,14,active
+CUST-0042,HelioBank Inc.,Commercial,Gaming,North America,T. Meyer,2023-08-01,US,60,active
+CUST-0043,Vertex Labs Inc.,Commercial,E-commerce,APAC,A. Novak,2022-09-01,DE,60,active
+CUST-0044,Northstar Gaming Inc.,Commercial,Healthcare,North America,T. Meyer,2022-07-01,FR,60,churned
+CUST-0045,BlueRiver AI Inc.,Strategic,SaaS,Europe,M. Jensen,2024-07-01,SG,30,active
+CUST-0046,CloudNest Inc.,Commercial,Healthcare,Middle East,A. Novak,2023-02-01,FR,30,paused
+CUST-0047,Finwise Inc.,Commercial,E-commerce,Middle East,M. Jensen,2024-03-01,SG,30,active
+CUST-0048,Orbit Media Inc.,Enterprise,AI/ML,Europe,A. Novak,2024-11-01,US,14,active
+CUST-0049,Quantum Cart Inc.,SMB,Gaming,Middle East,A. Novak,2025-07-01,GB,14,active
+CUST-0050,SentinelSec Inc.,Enterprise,Fintech,Europe,N. Kowalski,2022-12-01,GB,60,active
+CUST-0051,MedNova Inc.,Commercial,Media,Middle East,A. Novak,2024-03-01,US,14,active
+CUST-0052,BrightApps Inc.,SMB,Gaming,North America,M. Jensen,2024-07-01,AE,30,active
+CUST-0053,SignalForge Inc.,SMB,Cybersecurity,Middle East,M. Jensen,2023-07-01,AE,14,active
+CUST-0054,Atlas Retail Inc.,SMB,AI/ML,APAC,M. Jensen,2025-06-01,GB,14,active
+CUST-0055,NovaLearn Inc.,SMB,Cybersecurity,Europe,T. Meyer,2023-01-01,NL,60,active
+CUST-0056,PeakMetrics Inc.,Commercial,Cybersecurity,Europe,L. Garcia,2024-07-01,NL,60,paused
+CUST-0057,Aurora Systems Inc.,Enterprise,SaaS,APAC,A. Novak,2023-03-01,GB,45,active
+CUST-0058,Tesseract AI Inc.,Strategic,Fintech,Middle East,M. Jensen,2025-01-01,US,30,active
+CUST-0059,OmniPay Inc.,Strategic,SaaS,North America,A. Novak,2024-12-01,GB,45,active
+CUST-0060,DeltaStream Cloud,SMB,SaaS,North America,T. Meyer,2024-12-01,FR,14,active
+CUST-0061,Acme Analytics Cloud,Commercial,Healthcare,Europe,S. Patel,2022-07-01,AE,45,active
+CUST-0062,HelioBank Cloud,SMB,AI/ML,APAC,A. Novak,2024-08-01,US,45,active
+CUST-0063,Vertex Labs Cloud,Strategic,Media,Europe,L. Garcia,2024-10-01,US,30,active
+CUST-0064,Northstar Gaming Cloud,Commercial,E-commerce,APAC,T. Meyer,2023-09-01,AE,30,active
+CUST-0065,BlueRiver AI Cloud,SMB,SaaS,APAC,T. Meyer,2023-02-01,US,60,active
+CUST-0066,CloudNest Cloud,Strategic,SaaS,North America,M. Jensen,2025-03-01,NL,30,active
+CUST-0067,Finwise Cloud,SMB,Fintech,North America,L. Garcia,2023-03-01,PL,45,active
+CUST-0068,Orbit Media Cloud,Enterprise,SaaS,APAC,L. Garcia,2022-10-01,AE,45,active
+CUST-0069,Quantum Cart Cloud,Strategic,Media,APAC,S. Patel,2025-03-01,DE,30,active
+CUST-0070,SentinelSec Cloud,Strategic,Gaming,Europe,S. Patel,2022-08-01,DE,30,active
+CUST-0071,MedNova Cloud,SMB,Fintech,Europe,M. Jensen,2025-02-01,PL,45,active
+CUST-0072,BrightApps Cloud,Enterprise,SaaS,North America,N. Kowalski,2024-01-01,GB,30,active
+CUST-0073,SignalForge Cloud,Strategic,Gaming,North America,L. Garcia,2024-01-01,SG,30,active
+CUST-0074,Atlas Retail Cloud,Commercial,E-commerce,Middle East,A. Novak,2023-09-01,AE,45,active
+CUST-0075,NovaLearn Cloud,Commercial,Media,APAC,L. Garcia,2022-12-01,FR,45,active
+CUST-0076,PeakMetrics Cloud,Enterprise,Media,Europe,T. Meyer,2022-01-01,DE,45,active
+CUST-0077,Aurora Systems Cloud,Commercial,E-commerce,Middle East,L. Garcia,2024-10-01,US,30,active
+CUST-0078,Tesseract AI Cloud,SMB,AI/ML,Middle East,T. Meyer,2022-03-01,GB,14,active
+CUST-0079,OmniPay Cloud,Strategic,Healthcare,Middle East,S. Patel,2025-03-01,US,45,active
+CUST-0080,DeltaStream Technologies,Enterprise,Media,North America,N. Kowalski,2024-06-01,SG,30,churned
+CUST-0081,Acme Analytics Technologies,Commercial,SaaS,Europe,M. Jensen,2022-01-01,US,14,active
+CUST-0082,HelioBank Technologies,Commercial,Media,Middle East,A. Novak,2022-02-01,NL,14,active
+CUST-0083,Vertex Labs Technologies,Commercial,Healthcare,Europe,A. Novak,2024-05-01,PL,45,active
+CUST-0084,Northstar Gaming Technologies,Commercial,Gaming,North America,M. Jensen,2024-02-01,NL,30,active
+CUST-0085,BlueRiver AI Technologies,Commercial,Healthcare,Middle East,A. Novak,2022-05-01,AE,14,active
+CUST-0086,CloudNest Technologies,SMB,SaaS,APAC,S. Patel,2024-09-01,AE,60,active
+CUST-0087,Finwise Technologies,Commercial,AI/ML,North America,T. Meyer,2023-03-01,FR,14,active
+CUST-0088,Orbit Media Technologies,Enterprise,E-commerce,APAC,L. Garcia,2024-04-01,AE,60,active
+CUST-0089,Quantum Cart Technologies,Commercial,Media,North America,N. Kowalski,2024-06-01,GB,45,active
+CUST-0090,SentinelSec Technologies,SMB,AI/ML,APAC,T. Meyer,2023-01-01,DE,60,active

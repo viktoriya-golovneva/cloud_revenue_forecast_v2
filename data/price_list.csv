@@ -1,0 +1,8 @@
+product,effective_from,unit,list_price_usd,notes
+compute_standard,2024-01-01,compute_hour,0.046,General purpose VM compute.
+gpu_a100,2024-01-01,gpu_hour,2.65,Legacy GPU SKU used before product migration.
+gpu_accelerated,2025-10-01,gpu_hour,2.55,Renamed GPU SKU after platform migration.
+object_storage,2024-01-01,tb_month_avg,22.0,Average stored TB per month.
+network_egress,2024-01-01,egress_tb,74.0,Public internet egress.
+compute_standard,2025-07-01,compute_hour,0.043,Mid-2025 price decrease for compute.
+object_storage,2026-01-01,tb_month_avg,20.5,Storage price refresh.

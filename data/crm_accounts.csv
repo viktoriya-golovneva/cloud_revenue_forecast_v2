@@ -1,0 +1,80 @@
+crm_account_id,account_name,parent_account_name,segment,industry,region,account_owner,matched_customer_id,match_confidence
+ACC-0001,Acme Analytics,,Strategic,E-commerce,Middle East,M. Jensen,CUST-0001,low
+ACC-0002,HelioBank,,SMB,AI/ML,APAC,M. Jensen,CUST-0002,high
+ACC-0003,Vertex Labs,,Commercial,Healthcare,Europe,A. Novak,CUST-0003,medium
+ACC-0004,Northstar Gaming,,SMB,E-commerce,Europe,T. Meyer,CUST-0004,high
+ACC-0005,BlueRiver AI,,Enterprise,AI/ML,Europe,A. Novak,CUST-0005,medium
+ACC-0006,CloudNest,,Strategic,Gaming,North America,N. Kowalski,CUST-0006,high
+ACC-0007,Finwise,,Strategic,Media,APAC,M. Jensen,CUST-0008,low
+ACC-0008,Orbit Media,,Enterprise,Media,Europe,A. Novak,CUST-0008,low
+ACC-0009,Quantum Cart,Quantum Holdings,Enterprise,AI/ML,Middle East,M. Jensen,CUST-0009,high
+ACC-0010,SentinelSec,,Commercial,E-commerce,Middle East,T. Meyer,CUST-0010,medium
+ACC-0011,MedNova,,Commercial,Cybersecurity,Europe,A. Novak,CUST-0011,high
+ACC-0012,BrightApps,,SMB,Healthcare,APAC,N. Kowalski,CUST-0012,low
+ACC-0013,SignalForge Group,,Commercial,Healthcare,APAC,L. Garcia,CUST-0013,high
+ACC-0014,Atlas Retail,,SMB,AI/ML,Europe,M. Jensen,CUST-0014,low
+ACC-0015,NovaLearn,,SMB,E-commerce,Middle East,A. Novak,CUST-0015,high
+ACC-0016,PeakMetrics,,Commercial,Cybersecurity,Middle East,L. Garcia,CUST-0016,low
+ACC-0017,Aurora Systems,,Enterprise,E-commerce,North America,S. Patel,CUST-0017,high
+ACC-0018,Tesseract AI,Tesseract Holdings,Strategic,Cybersecurity,APAC,S. Patel,,unmatched
+ACC-0019,OmniPay,,SMB,SaaS,Middle East,N. Kowalski,CUST-0019,medium
+ACC-0020,DeltaStream Ltd.,,SMB,SaaS,Middle East,N. Kowalski,CUST-0020,high
+ACC-0021,Acme Analytics Ltd.,,SMB,SaaS,Europe,S. Patel,CUST-0021,medium
+ACC-0022,HelioBank Ltd.,,Strategic,Cybersecurity,Europe,S. Patel,CUST-0022,medium
+ACC-0023,Vertex Labs Ltd.,,Commercial,Gaming,Europe,A. Novak,CUST-0023,medium
+ACC-0024,Northstar Gaming Ltd.,,Strategic,Fintech,Europe,M. Jensen,CUST-0024,medium
+ACC-0025,BlueRiver AI Ltd.,,Commercial,Healthcare,Middle East,T. Meyer,CUST-0025,low
+ACC-0026,CloudNest Group,,Commercial,E-commerce,APAC,T. Meyer,CUST-0026,medium
+ACC-0027,Finwise Ltd.,Finwise Holdings,Commercial,Cybersecurity,Europe,T. Meyer,CUST-0027,high
+ACC-0028,Orbit Media Ltd.,,SMB,Media,Europe,L. Garcia,CUST-0028,high
+ACC-0029,Quantum Cart Ltd.,,Commercial,AI/ML,North America,S. Patel,CUST-0029,high
+ACC-0030,SentinelSec Ltd.,,SMB,E-commerce,Europe,N. Kowalski,CUST-0030,medium
+ACC-0031,MedNova Ltd.,,SMB,Media,Middle East,T. Meyer,CUST-0031,high
+ACC-0032,BrightApps Ltd.,,SMB,Healthcare,APAC,T. Meyer,CUST-0032,high
+ACC-0033,SignalForge Ltd.,,Strategic,E-commerce,North America,A. Novak,,unmatched
+ACC-0034,Atlas Retail Ltd.,,Commercial,Fintech,North America,T. Meyer,CUST-0034,high
+ACC-0035,NovaLearn Ltd.,,Enterprise,SaaS,Middle East,L. Garcia,CUST-0035,medium
+ACC-0036,PeakMetrics Ltd.,PeakMetrics Holdings,SMB,Healthcare,APAC,T. Meyer,CUST-0036,medium
+ACC-0037,Aurora Systems Ltd.,,SMB,Media,Europe,L. Garcia,CUST-0037,low
+ACC-0038,Tesseract AI Ltd.,,Enterprise,SaaS,Middle East,M. Jensen,CUST-0038,medium
+ACC-0039,OmniPay Group,,SMB,Media,Middle East,T. Meyer,CUST-0039,medium
+ACC-0040,DeltaStream Inc.,,SMB,Gaming,APAC,T. Meyer,CUST-0040,high
+ACC-0041,Acme Analytics Inc.,,SMB,AI/ML,North America,N. Kowalski,CUST-0041,low
+ACC-0042,HelioBank Inc.,,Commercial,Gaming,North America,T. Meyer,CUST-0042,high
+ACC-0043,Vertex Labs Inc.,,Commercial,E-commerce,APAC,A. Novak,CUST-0043,medium
+ACC-0044,Northstar Gaming Inc.,,Commercial,Healthcare,North America,T. Meyer,CUST-0044,medium
+ACC-0045,BlueRiver AI Inc.,BlueRiver Holdings,Strategic,SaaS,Europe,M. Jensen,CUST-0045,low
+ACC-0046,CloudNest Inc.,,Commercial,Healthcare,Middle East,A. Novak,CUST-0046,high
+ACC-0047,Finwise Inc.,,Commercial,E-commerce,Middle East,M. Jensen,CUST-0047,high
+ACC-0048,Orbit Media Inc.,,Enterprise,AI/ML,Europe,A. Novak,CUST-0048,high
+ACC-0049,Quantum Cart Inc.,,SMB,Gaming,Middle East,A. Novak,CUST-0049,high
+ACC-0050,SentinelSec Inc.,,Enterprise,Fintech,Europe,N. Kowalski,CUST-0050,low
+ACC-0051,MedNova Inc.,,Strategic,Media,Middle East,A. Novak,CUST-0051,medium
+ACC-0052,BrightApps Group,,SMB,Gaming,North America,M. Jensen,CUST-0052,low
+ACC-0053,SignalForge Inc.,,SMB,Cybersecurity,Middle East,M. Jensen,CUST-0053,low
+ACC-0054,Atlas Retail Inc.,Atlas Holdings,SMB,AI/ML,APAC,M. Jensen,CUST-0054,high
+ACC-0055,NovaLearn Inc.,,SMB,Cybersecurity,Europe,T. Meyer,CUST-0055,low
+ACC-0056,PeakMetrics Inc.,,Commercial,Cybersecurity,Europe,L. Garcia,CUST-0056,high
+ACC-0057,Aurora Systems Inc.,,Enterprise,SaaS,Europe,A. Novak,CUST-0057,medium
+ACC-0058,Tesseract AI Inc.,,Strategic,Fintech,Middle East,M. Jensen,,unmatched
+ACC-0059,OmniPay Inc.,,Strategic,SaaS,North America,A. Novak,CUST-0059,medium
+ACC-0060,DeltaStream Cloud,,SMB,SaaS,North America,T. Meyer,CUST-0060,high
+ACC-0061,Acme Analytics Cloud,,Commercial,Healthcare,Europe,S. Patel,CUST-0061,medium
+ACC-0062,HelioBank Cloud,,SMB,AI/ML,APAC,A. Novak,CUST-0062,medium
+ACC-0063,Vertex Labs Cloud,Vertex Holdings,Strategic,Media,Europe,L. Garcia,CUST-0063,high
+ACC-0064,Northstar Gaming Cloud,,Commercial,E-commerce,APAC,T. Meyer,CUST-0064,low
+ACC-0065,BlueRiver AI Cloud Group,,SMB,SaaS,APAC,T. Meyer,CUST-0065,high
+ACC-0066,CloudNest Cloud,,Strategic,SaaS,North America,M. Jensen,CUST-0066,medium
+ACC-0067,Finwise Cloud,,SMB,Fintech,North America,L. Garcia,CUST-0067,high
+ACC-0068,Orbit Media Cloud,,Strategic,SaaS,APAC,L. Garcia,CUST-0068,medium
+ACC-0069,Quantum Cart Cloud,,Strategic,Media,APAC,S. Patel,CUST-0069,low
+ACC-0070,SentinelSec Cloud,,Strategic,Gaming,Europe,S. Patel,CUST-0070,medium
+ACC-0071,MedNova Cloud,,SMB,Fintech,Europe,M. Jensen,CUST-0071,high
+ACC-0072,BrightApps Cloud,BrightApps Holdings,Enterprise,SaaS,North America,N. Kowalski,CUST-0072,high
+ACC-0073,SignalForge Cloud,,Strategic,Gaming,North America,L. Garcia,CUST-0073,low
+ACC-0074,Atlas Retail Cloud,,Commercial,E-commerce,Middle East,A. Novak,CUST-0074,high
+ACC-0075,NovaLearn Cloud,,Commercial,Media,APAC,L. Garcia,CUST-0075,high
+ACC-0091,Lambda Robotics,,Enterprise,E-commerce,APAC,L. Garcia,,new_logo
+ACC-0092,Magellan BioAI,,Strategic,Healthcare,APAC,S. Patel,,new_logo
+ACC-0093,Pinnacle Training,,Strategic,AI/ML,Europe,A. Novak,,new_logo
+ACC-0094,Zenith Marketplace,,Strategic,AI/ML,Middle East,T. Meyer,,new_logo

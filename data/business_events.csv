@@ -1,0 +1,6 @@
+event_date,event_type,affected_product,affected_customer_id,description
+2025-07-01,pricing_change,compute_standard,,Compute list price reduced for new and renewing contracts.
+2025-10-01,product_migration,gpu_a100,,Legacy GPU SKU migrated to gpu_accelerated in usage telemetry.
+2026-03-15,capacity_constraint,gpu_accelerated,,Temporary GPU supply constraint delayed some enterprise ramps.
+2026-04-04,billing_system_change,,,Invoice export switched to a new source table; Finance flagged possible duplicate rows during transition.
+2026-05-20,sales_policy,,,Sales leadership asked teams to split saving-plan packages into component opportunities for pipeline visibility.
